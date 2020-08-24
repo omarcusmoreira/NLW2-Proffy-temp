@@ -4,7 +4,6 @@ import TeacherItem from '../../components/TeacherItem';
 
 import './styles.css'
 
-
 function TeacherList(){
     return (
 
